@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Button } from './ui/button';
+import { Button } from './ui/Button';
 
 // Simple SVG icons to replace lucide-react
 const Moon = ({ className }: { className?: string }) => (
