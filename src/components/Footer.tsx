@@ -1,4 +1,4 @@
-import { Button } from './ui/button';
+import { Button } from './ui/Button';
 
 // Simple SVG icons to replace lucide-react
 const Github = ({ className }: { className?: string }) => (
