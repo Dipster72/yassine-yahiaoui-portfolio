@@ -1,6 +1,6 @@
 import { Card, CardContent, CardHeader } from './ui/card';
 import { Badge } from './ui/badge';
-import { Button } from './ui/button';
+import { Button } from './ui/Button';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 
 // Simple SVG icons to replace lucide-react
