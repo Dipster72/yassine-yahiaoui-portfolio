@@ -1,9 +1,9 @@
-import { Button } from './ui/button';
+import { Button } from './ui/Button';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 
 // Define your personal contact links here
 const LINKEDIN_URL = 'https://linkedin.com/in/yassine-yahiaoui'; // From your resume
-const GITHUB_URL = 'https://github.com/YourGitHubUsername'; // **<-- UPDATE THIS WITH YOUR GITHUB LINK**
+const GITHUB_URL = 'https://github.com/Dipster72'; // **<-- UPDATE THIS WITH YOUR GITHUB LINK**
 const MAIL_TO_URL = 'mailto:yahiaoui.yassine98@gmail.com'; // From your resume
 const RESUME_URL = 'Yahiaoui_Yassine_Resume_US.pdf'; 
 
