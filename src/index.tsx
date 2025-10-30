@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom'; // Notez que nous importons directement de 'react-dom'
 
 // C'est la ligne à noter : elle remonte d'un niveau (..) pour trouver App.tsx à la racine
-import App from '../App'; 
+import App from './App'; 
 
 // Cible l'élément HTML avec l'ID 'root'
 const container = document.getElementById('root');
